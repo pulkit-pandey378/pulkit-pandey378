@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pulkit-pandey378
 - 👀 I’m interested in UI designing
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently learning UI/UX Design
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me (2201360003@krmu.edu.in)
 
